@@ -1,1 +1,3 @@
-## 👋 Hi, I'm 정인
+## 정인
+
+Backend Developer (C# .NET)
